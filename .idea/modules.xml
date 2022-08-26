@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/dataspell-project/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/dataspell-project/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/pandas-learn/.idea/pandas-learn.iml" filepath="$USER_HOME$/DataspellProjects/pandas-learn/.idea/pandas-learn.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Documents/GitHub/sample-github/pandas-project/.idea/pandas-project.iml" filepath="$USER_HOME$/OneDrive/Documents/GitHub/sample-github/pandas-project/.idea/pandas-project.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/sample-github/.idea/sample-github.iml" filepath="$USER_HOME$/DataspellProjects/sample-github/.idea/sample-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
