@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/MachineLearning/MachineLearning" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/OpenAI" vcs="Git" />
     <mapping directory="$USER_HOME$/DataspellProjects/sample-github" vcs="Git" />
   </component>
 </project>
