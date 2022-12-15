@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="sample-github" />
     <orderEntry type="module" module-name="rsads" />
     <orderEntry type="module" module-name="MachineLearning" />
+    <orderEntry type="module" module-name="OpenAI" />
   </component>
 </module>

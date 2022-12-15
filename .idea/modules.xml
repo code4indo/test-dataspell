@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/DataspellProjects/MachineLearning/.idea/MachineLearning.iml" filepath="$USER_HOME$/DataspellProjects/MachineLearning/.idea/MachineLearning.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/OpenAI/.idea/OpenAI.iml" filepath="$USER_HOME$/DataspellProjects/OpenAI/.idea/OpenAI.iml" />
       <module fileurl="file://$USER_HOME$/dataspell-project/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/dataspell-project/dsProject/.idea/dsProject.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/pandas-learn/.idea/pandas-learn.iml" filepath="$USER_HOME$/DataspellProjects/pandas-learn/.idea/pandas-learn.iml" />
       <module fileurl="file://$USER_HOME$/OneDrive/Documents/GitHub/sample-github/pandas-project/.idea/pandas-project.iml" filepath="$USER_HOME$/OneDrive/Documents/GitHub/sample-github/pandas-project/.idea/pandas-project.iml" />
