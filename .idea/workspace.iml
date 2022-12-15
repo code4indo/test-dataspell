@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="pandas-project" />
     <orderEntry type="module" module-name="pandas-learn" />
     <orderEntry type="module" module-name="sample-github" />
+    <orderEntry type="module" module-name="rsads" />
+    <orderEntry type="module" module-name="MachineLearning" />
   </component>
 </module>
